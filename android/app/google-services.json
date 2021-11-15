@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "316198776146",
+    "project_id": "rundoneapp",
+    "storage_bucket": "rundoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316198776146:android:c889a35d443b3394a55e8b",
+        "android_client_info": {
+          "package_name": "com.example.rundone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316198776146-97079u2t5gbmj17qqj5ju08dfemfnv57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXGkBF3vtzSi6e8z8XuqZfzt1IyWu40ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316198776146-97079u2t5gbmj17qqj5ju08dfemfnv57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316198776146:android:50a32655a2d9da29a55e8b",
+        "android_client_info": {
+          "package_name": "com.rsi.rundone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316198776146-97079u2t5gbmj17qqj5ju08dfemfnv57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXGkBF3vtzSi6e8z8XuqZfzt1IyWu40ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316198776146-97079u2t5gbmj17qqj5ju08dfemfnv57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
